@@ -1,0 +1,4 @@
+module BridgeFiles [system] {
+    header "ZVFileTransferHeader.h"
+    export *
+}
